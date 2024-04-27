@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qkVPMmINn9BGyIDRXq2RCqRgMWmStX7lAHQ0i/m8pSs=",
+  "Source": "Montech.Api",
+  "BasePath": "_content/Montech.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

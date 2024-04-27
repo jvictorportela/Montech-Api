@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34814.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Montech.Api", "Montech.Api\Montech.Api.csproj", "{7A26166A-169E-4C9A-A137-437E4E9B095C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A26166A-169E-4C9A-A137-437E4E9B095C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A26166A-169E-4C9A-A137-437E4E9B095C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A26166A-169E-4C9A-A137-437E4E9B095C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A26166A-169E-4C9A-A137-437E4E9B095C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22782B50-466B-4292-BDFB-C6E3E018BCEB}
+	EndGlobalSection
+EndGlobal
